@@ -17,7 +17,7 @@ module.exports = function statusMenuCommand(bot) {
 <pre>━━━━━━━━━━━━━━━━━━━━━━━━━━━</pre>
 <b>Motto:</b> We believe in growing and building together
 <b>Powered by:</b> CASPER TECH
-<b>Owner:</b> @casper_tech_ke
+<b>Owner:</b> @sir_sila
 <b>Website:</b> api.xcasper.site
 <pre>━━━━━━━━━━━━━━━━━━━━━━━━━━━</pre>`;
 
@@ -195,7 +195,7 @@ ${sysErr.message}
             // Contact Information
             const contactInfo = `<b>📞 CONTACT & SUPPORT</b>
 <pre>━━━━━━━━━━━━━━━━━━━━━━━━━━━</pre>
-• <b>Owner:</b> @casper_tech_ke
+• <b>Owner:</b> @sir_sila
 • <b>Contact Form:</b> api.xcasper.site/contact
 • <b>Billing:</b> api.xcasper.site/payments
 • <b>Support:</b> 24/7 via Telegram
@@ -320,7 +320,7 @@ ${sysErr.message}
 • ⏰ <b>Uptime:</b> ${hours}h ${minutes}m
 
 <i>Powered by CASPER TECH</i>
-👑 @casper_tech_ke
+👑 @sir_sila
 🌐 api.xcasper.site`;
             
             bot.sendMessage(chatId, miniStatus, { parse_mode: 'HTML' });
