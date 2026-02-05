@@ -73,7 +73,7 @@ module.exports = function statusMenuCommand(bot) {
             
             statusMessage += `<b>Motto:</b> We believe in growing and building together\n`;
             statusMessage += `<b>Powered by:</b> CASPER TECH\n`;
-            statusMessage += `<b>Owner:</b> @casper_tech_ke\n`;
+            statusMessage += `<b>Owner:</b> @sir_sila\n`;
             statusMessage += `<b>Website:</b> api.xcasper.site\n\n`;
             
             statusMessage += `<code>━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>\n`;
@@ -186,7 +186,7 @@ module.exports = function statusMenuCommand(bot) {
             statusMessage += `<code>━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>\n`;
             statusMessage += `<b>📞 CONTACT & SUPPORT</b>\n`;
             statusMessage += `<code>━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>\n`;
-            statusMessage += `• <b>Owner:</b> @casper_tech_ke\n`;
+            statusMessage += `• <b>Owner:</b> @sir_sila\n`;
             statusMessage += `• <b>Contact Form:</b> api.xcasper.site/contact\n`;
             statusMessage += `• <b>Billing:</b> api.xcasper.site/payments\n`;
             statusMessage += `• <b>Support:</b> 24/7 via Telegram\n\n`;
@@ -306,7 +306,7 @@ module.exports = function statusMenuCommand(bot) {
                                `• 🖥️ <b>Servers:</b> ${servers}\n` +
                                `• ⏰ <b>Uptime:</b> ${hours}h ${minutes}m\n\n` +
                                `<i>Powered by CASPER TECH</i>\n` +
-                               `👑 @casper_tech_ke\n` +
+                               `👑 @sir_sila\n` +
                                `🌐 api.xcasper.site`;
             
             bot.sendMessage(chatId, miniStatus, { parse_mode: 'HTML' });
