@@ -130,7 +130,7 @@ I am your automated hosting assistant.
 ${isAdmin ? '👑 *You are an ADMIN* - Full access enabled!' : '🔒 Standard user access'}
 
 *Support:*
-👑 @casper_tech_ke
+👑 @sir_sila
 🌐 ${config.PANEL_DOMAIN}
 
 *Motto:* We believe in growing and building together!
@@ -168,7 +168,7 @@ bot.onText(/\/help/, (msg) => {
     
     helpMsg += `
 *Support:*
-Owner: @casper_tech_ke
+Owner: @sir_sila
 Panel: ${config.PANEL_DOMAIN}
 
 Use /menu for interactive options.
@@ -195,7 +195,7 @@ bot.onText(/\/status/, async (msg) => {
 *Quick Test:* /ping
 *Full Help:* /help
 
-*Contact:* @casper_tech_ke
+*Contact:* @sir_sila
 `;
     
     bot.sendMessage(chatId, statusMsg, { parse_mode: 'Markdown' });
@@ -257,7 +257,7 @@ ${isAdmin ? '👑 *Admin Mode:* Full access enabled' : '🔒 *User Mode:* Basic 
 • /status - System status
 • /ping - Connection test
 
-*Support:* @casper_tech_ke
+*Support:* @sir_sila
 `;
     
     bot.sendMessage(chatId, menuMsg, { 
