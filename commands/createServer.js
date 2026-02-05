@@ -133,7 +133,7 @@ module.exports = function createServerCommand(bot, AUTHORIZED_ADMINS = []) {
         
         // Check authorization - FIXED ERROR HERE
         if (!AUTHORIZED_ADMINS || !AUTHORIZED_ADMINS.includes(chatId)) {
-            return bot.sendMessage(chatId, '❌ You are not authorized to use this command.\n\nContact @casper_tech_ke for admin access.');
+            return bot.sendMessage(chatId, '❌ You are not authorized to use this command.\n\nContact @sir_sila for admin access.');
         }
 
         const type = msg.text.split(' ')[0].substring(1); // Remove the '/' from command
