@@ -1,0 +1,863 @@
+{
+  "users": [
+    {
+      "email": "Caz@gmail.com",
+      "username": "Caz",
+      "password": "n^nCAmx57Zrk",
+      "panelUserId": 7,
+      "telegramId": 5582659539,
+      "creationId": "1765757228510",
+      "createdAt": "2025-12-15T00:07:08.511Z"
+    },
+    {
+      "email": "habibhabib2540@gmail.com",
+      "username": "Habib",
+      "password": "5uwcF4clPGxc",
+      "panelUserId": 9,
+      "telegramId": 5582659539,
+      "creationId": "1765782293285",
+      "createdAt": "2025-12-15T07:04:53.285Z"
+    },
+    {
+      "email": "wolfsilent906@gmail.com",
+      "username": "Wolf",
+      "password": "5j^Wf$ze&ZT7",
+      "panelUserId": 10,
+      "telegramId": 5582659539,
+      "creationId": "1765782656491",
+      "createdAt": "2025-12-15T07:10:56.491Z"
+    },
+    {
+      "email": "josephpaneah7@gmail.com",
+      "username": "Jose",
+      "password": "&sUTTXkm3e!7",
+      "panelUserId": 11,
+      "telegramId": 5582659539,
+      "creationId": "1765785107864",
+      "createdAt": "2025-12-15T07:51:47.864Z"
+    },
+    {
+      "email": "toosii042@gmail.com",
+      "username": "Toosii",
+      "password": "DHmC*x&ni1Hb",
+      "panelUserId": 14,
+      "telegramId": 5582659539,
+      "creationId": "1765792656411",
+      "createdAt": "2025-12-15T09:57:36.411Z"
+    },
+    {
+      "email": "innocentsmoker500@gmail.com",
+      "username": "Innocent",
+      "password": "trGy8@LxiP38",
+      "panelUserId": 15,
+      "telegramId": 8297850382,
+      "creationId": "1765798889080",
+      "createdAt": "2025-12-15T11:41:29.080Z"
+    },
+    {
+      "email": "keithjimmy055@gmail.com",
+      "username": "Jimmy",
+      "password": "lsCfwKoCmXv2",
+      "panelUserId": 17,
+      "telegramId": 8297850382,
+      "creationId": "1765800344516",
+      "createdAt": "2025-12-15T12:05:44.516Z"
+    },
+    {
+      "email": "lonelyturtle@gmail.com",
+      "username": "sam",
+      "password": "q9NxReUd6EZw",
+      "panelUserId": 20,
+      "telegramId": 5582659539,
+      "creationId": "1765825775729",
+      "createdAt": "2025-12-15T19:09:35.729Z"
+    },
+    {
+      "email": "casperqriz@gmail.com",
+      "username": "Cadper",
+      "password": "Yp$f51#gTlN!",
+      "panelUserId": 24,
+      "telegramId": 5582659539,
+      "creationId": "1765914429198",
+      "createdAt": "2025-12-16T19:47:09.198Z"
+    },
+    {
+      "email": "sylivanus.silva@gmail.com",
+      "username": "Silva",
+      "password": "l^#89*@AcZJP",
+      "panelUserId": 29,
+      "telegramId": 5582659539,
+      "creationId": "1765976799295",
+      "createdAt": "2025-12-17T13:06:39.295Z"
+    },
+    {
+      "email": "chasemkimbizi@gmail.com",
+      "username": "Chase",
+      "password": "J7qg%gXnmTpg",
+      "panelUserId": 30,
+      "telegramId": 5582659539,
+      "creationId": "1765977749107",
+      "createdAt": "2025-12-17T13:22:29.107Z"
+    },
+    {
+      "email": "lukasenga@gmail.com",
+      "username": "Lukas",
+      "password": "f1rkqPfkAMFA",
+      "panelUserId": 31,
+      "telegramId": 5582659539,
+      "creationId": "1765979652577",
+      "createdAt": "2025-12-17T13:54:12.579Z"
+    },
+    {
+      "email": "typhoon@gmail.com",
+      "username": "Typho",
+      "password": "n4CY0gMLRTd#",
+      "panelUserId": 32,
+      "telegramId": 5582659539,
+      "creationId": "1765985111544",
+      "createdAt": "2025-12-17T15:25:11.545Z"
+    },
+    {
+      "email": "abdimalik20941@gmail.com",
+      "username": "abadi",
+      "password": "%ObH*TnbbCMC",
+      "panelUserId": 33,
+      "telegramId": 5582659539,
+      "creationId": "1765985922345",
+      "createdAt": "2025-12-17T15:38:42.347Z"
+    },
+    {
+      "email": "jemohke47@gmail.com",
+      "username": "Jemo",
+      "password": "8h4Ju7wh$LxV",
+      "panelUserId": 36,
+      "telegramId": 5582659539,
+      "creationId": "1766058824300",
+      "createdAt": "2025-12-18T11:53:44.307Z"
+    },
+    {
+      "email": "ogzenm77@gmail.com",
+      "username": "Ogzen",
+      "password": "bFQmiWYpPfZI",
+      "panelUserId": 37,
+      "telegramId": 5582659539,
+      "creationId": "1766065893006",
+      "createdAt": "2025-12-18T13:51:33.011Z"
+    },
+    {
+      "email": "kid2004june@gmail.com",
+      "username": "Supreme",
+      "password": "$OAz^uIwNkFC",
+      "panelUserId": 38,
+      "telegramId": 5582659539,
+      "creationId": "1766070629684",
+      "createdAt": "2025-12-18T15:10:29.691Z"
+    },
+    {
+      "email": "makenab275@gmail.com",
+      "username": "Makena",
+      "password": "^*z9^t4lB3Mo",
+      "panelUserId": 39,
+      "telegramId": 5582659539,
+      "creationId": "1766137366352",
+      "createdAt": "2025-12-19T09:42:46.355Z"
+    },
+    {
+      "email": "rastersotieno8@gmail.com",
+      "username": "Rasters",
+      "password": "Y9XxW0laGbeo",
+      "panelUserId": 41,
+      "telegramId": 5582659539,
+      "creationId": "1766138067592",
+      "createdAt": "2025-12-19T09:54:27.594Z"
+    }
+  ],
+  "servers": [
+    {
+      "name": "Caz - 1GB",
+      "serverId": 6,
+      "memory": 1024,
+      "cpu": 50,
+      "disk": 2048,
+      "creationId": "1765757228510",
+      "createdAt": "2025-12-15T00:07:08.511Z"
+    },
+    {
+      "name": "Habib - UNLI",
+      "serverId": 8,
+      "memory": 0,
+      "cpu": 0,
+      "disk": 0,
+      "creationId": "1765782293285",
+      "createdAt": "2025-12-15T07:04:53.285Z"
+    },
+    {
+      "name": "Wolf - UNLI",
+      "serverId": 9,
+      "memory": 0,
+      "cpu": 0,
+      "disk": 0,
+      "creationId": "1765782656491",
+      "createdAt": "2025-12-15T07:10:56.491Z"
+    },
+    {
+      "name": "Jose - 5GB",
+      "serverId": 13,
+      "memory": 5120,
+      "cpu": 50,
+      "disk": 10240,
+      "creationId": "1765785107864",
+      "createdAt": "2025-12-15T07:51:47.864Z"
+    },
+    {
+      "name": "Toosii - UNLI",
+      "serverId": 18,
+      "memory": 0,
+      "cpu": 0,
+      "disk": 0,
+      "creationId": "1765792656411",
+      "createdAt": "2025-12-15T09:57:36.411Z"
+    },
+    {
+      "name": "Innocent - UNLI",
+      "serverId": 20,
+      "memory": 0,
+      "cpu": 0,
+      "disk": 0,
+      "creationId": "1765798889080",
+      "createdAt": "2025-12-15T11:41:29.080Z"
+    },
+    {
+      "name": "Jimmy - 4GB",
+      "serverId": 22,
+      "memory": 4096,
+      "cpu": 50,
+      "disk": 8192,
+      "creationId": "1765800344516",
+      "createdAt": "2025-12-15T12:05:44.516Z"
+    },
+    {
+      "name": "sam - UNLI",
+      "serverId": 28,
+      "memory": 0,
+      "cpu": 0,
+      "disk": 0,
+      "creationId": "1765825775729",
+      "createdAt": "2025-12-15T19:09:35.729Z"
+    },
+    {
+      "name": "Cadper - UNLI",
+      "serverId": 45,
+      "memory": 0,
+      "cpu": 0,
+      "disk": 0,
+      "creationId": "1765914429198",
+      "createdAt": "2025-12-16T19:47:09.198Z"
+    },
+    {
+      "name": "Silva - UNLI",
+      "serverId": 60,
+      "memory": 0,
+      "cpu": 0,
+      "disk": 0,
+      "creationId": "1765976799295",
+      "createdAt": "2025-12-17T13:06:39.295Z"
+    },
+    {
+      "name": "Chase - 5GB",
+      "serverId": 61,
+      "memory": 5120,
+      "cpu": 50,
+      "disk": 10240,
+      "creationId": "1765977749107",
+      "createdAt": "2025-12-17T13:22:29.107Z"
+    },
+    {
+      "name": "Lukas - 3GB",
+      "serverId": 65,
+      "memory": 3072,
+      "cpu": 50,
+      "disk": 6144,
+      "creationId": "1765979652577",
+      "createdAt": "2025-12-17T13:54:12.579Z"
+    },
+    {
+      "name": "Typho - 2GB",
+      "serverId": 66,
+      "memory": 2048,
+      "cpu": 50,
+      "disk": 4096,
+      "creationId": "1765985111544",
+      "createdAt": "2025-12-17T15:25:11.545Z"
+    },
+    {
+      "name": "abadi - UNLI",
+      "serverId": 67,
+      "memory": 0,
+      "cpu": 0,
+      "disk": 0,
+      "creationId": "1765985922345",
+      "createdAt": "2025-12-17T15:38:42.347Z"
+    },
+    {
+      "name": "Jemo - UNLI",
+      "serverId": 81,
+      "memory": 0,
+      "cpu": 0,
+      "disk": 0,
+      "creationId": "1766058824300",
+      "createdAt": "2025-12-18T11:53:44.307Z"
+    },
+    {
+      "name": "Ogzen - 2GB",
+      "serverId": 84,
+      "memory": 2048,
+      "cpu": 50,
+      "disk": 4096,
+      "creationId": "1766065893006",
+      "createdAt": "2025-12-18T13:51:33.011Z"
+    },
+    {
+      "name": "Supreme - UNLI",
+      "serverId": 85,
+      "memory": 0,
+      "cpu": 0,
+      "disk": 0,
+      "creationId": "1766070629684",
+      "createdAt": "2025-12-18T15:10:29.691Z"
+    },
+    {
+      "name": "Makena - 5GB",
+      "serverId": 90,
+      "memory": 5120,
+      "cpu": 50,
+      "disk": 10240,
+      "creationId": "1766137366352",
+      "createdAt": "2025-12-19T09:42:46.355Z"
+    },
+    {
+      "name": "Rasters - 5GB",
+      "serverId": 92,
+      "memory": 5120,
+      "cpu": 50,
+      "disk": 10240,
+      "creationId": "1766138067592",
+      "createdAt": "2025-12-19T09:54:27.594Z"
+    }
+  ],
+  "creations": [
+    {
+      "id": "1765757228510",
+      "timestamp": "2025-12-15T00:07:08.511Z",
+      "date": "12/15/2025",
+      "time": "1:07:08 AM",
+      "adminChatId": 5582659539,
+      "type": "1gb",
+      "user": {
+        "email": "Caz@gmail.com",
+        "username": "Caz",
+        "password": "n^nCAmx57Zrk",
+        "panelUserId": 7,
+        "telegramId": 5582659539
+      },
+      "server": {
+        "name": "Caz - 1GB",
+        "serverId": 6,
+        "memory": 1024,
+        "cpu": 50,
+        "disk": 2048
+      },
+      "panelInfo": {
+        "url": "https://host.xcasper.site",
+        "location": "1",
+        "egg": "15"
+      }
+    },
+    {
+      "id": "1765782293285",
+      "timestamp": "2025-12-15T07:04:53.285Z",
+      "date": "12/15/2025",
+      "time": "8:04:53 AM",
+      "adminChatId": 5582659539,
+      "type": "unli",
+      "user": {
+        "email": "habibhabib2540@gmail.com",
+        "username": "Habib",
+        "password": "5uwcF4clPGxc",
+        "panelUserId": 9,
+        "telegramId": 5582659539
+      },
+      "server": {
+        "name": "Habib - UNLI",
+        "serverId": 8,
+        "memory": 0,
+        "cpu": 0,
+        "disk": 0
+      },
+      "panelInfo": {
+        "url": "https://host.xcasper.site",
+        "location": "1",
+        "egg": "15"
+      }
+    },
+    {
+      "id": "1765782656491",
+      "timestamp": "2025-12-15T07:10:56.491Z",
+      "date": "12/15/2025",
+      "time": "8:10:56 AM",
+      "adminChatId": 5582659539,
+      "type": "unli",
+      "user": {
+        "email": "wolfsilent906@gmail.com",
+        "username": "Wolf",
+        "password": "5j^Wf$ze&ZT7",
+        "panelUserId": 10,
+        "telegramId": 5582659539
+      },
+      "server": {
+        "name": "Wolf - UNLI",
+        "serverId": 9,
+        "memory": 0,
+        "cpu": 0,
+        "disk": 0
+      },
+      "panelInfo": {
+        "url": "https://host.xcasper.site",
+        "location": "1",
+        "egg": "15"
+      }
+    },
+    {
+      "id": "1765785107864",
+      "timestamp": "2025-12-15T07:51:47.864Z",
+      "date": "12/15/2025",
+      "time": "8:51:47 AM",
+      "adminChatId": 5582659539,
+      "type": "5gb",
+      "user": {
+        "email": "josephpaneah7@gmail.com",
+        "username": "Jose",
+        "password": "&sUTTXkm3e!7",
+        "panelUserId": 11,
+        "telegramId": 5582659539
+      },
+      "server": {
+        "name": "Jose - 5GB",
+        "serverId": 13,
+        "memory": 5120,
+        "cpu": 50,
+        "disk": 10240
+      },
+      "panelInfo": {
+        "url": "https://host.xcasper.site",
+        "location": "1",
+        "egg": "15"
+      }
+    },
+    {
+      "id": "1765792656411",
+      "timestamp": "2025-12-15T09:57:36.411Z",
+      "date": "12/15/2025",
+      "time": "10:57:36 AM",
+      "adminChatId": 5582659539,
+      "type": "unli",
+      "user": {
+        "email": "toosii042@gmail.com",
+        "username": "Toosii",
+        "password": "DHmC*x&ni1Hb",
+        "panelUserId": 14,
+        "telegramId": 5582659539
+      },
+      "server": {
+        "name": "Toosii - UNLI",
+        "serverId": 18,
+        "memory": 0,
+        "cpu": 0,
+        "disk": 0
+      },
+      "panelInfo": {
+        "url": "https://host.xcasper.site",
+        "location": "1",
+        "egg": "15"
+      }
+    },
+    {
+      "id": "1765798889080",
+      "timestamp": "2025-12-15T11:41:29.080Z",
+      "date": "12/15/2025",
+      "time": "12:41:29 PM",
+      "adminChatId": 8297850382,
+      "type": "unli",
+      "user": {
+        "email": "innocentsmoker500@gmail.com",
+        "username": "Innocent",
+        "password": "trGy8@LxiP38",
+        "panelUserId": 15,
+        "telegramId": 8297850382
+      },
+      "server": {
+        "name": "Innocent - UNLI",
+        "serverId": 20,
+        "memory": 0,
+        "cpu": 0,
+        "disk": 0
+      },
+      "panelInfo": {
+        "url": "https://host.xcasper.site",
+        "location": "1",
+        "egg": "15"
+      }
+    },
+    {
+      "id": "1765800344516",
+      "timestamp": "2025-12-15T12:05:44.516Z",
+      "date": "12/15/2025",
+      "time": "1:05:44 PM",
+      "adminChatId": 8297850382,
+      "type": "4gb",
+      "user": {
+        "email": "keithjimmy055@gmail.com",
+        "username": "Jimmy",
+        "password": "lsCfwKoCmXv2",
+        "panelUserId": 17,
+        "telegramId": 8297850382
+      },
+      "server": {
+        "name": "Jimmy - 4GB",
+        "serverId": 22,
+        "memory": 4096,
+        "cpu": 50,
+        "disk": 8192
+      },
+      "panelInfo": {
+        "url": "https://host.xcasper.site",
+        "location": "1",
+        "egg": "15"
+      }
+    },
+    {
+      "id": "1765825775729",
+      "timestamp": "2025-12-15T19:09:35.729Z",
+      "date": "12/15/2025",
+      "time": "8:09:35 PM",
+      "adminChatId": 5582659539,
+      "type": "unli",
+      "user": {
+        "email": "lonelyturtle@gmail.com",
+        "username": "sam",
+        "password": "q9NxReUd6EZw",
+        "panelUserId": 20,
+        "telegramId": 5582659539
+      },
+      "server": {
+        "name": "sam - UNLI",
+        "serverId": 28,
+        "memory": 0,
+        "cpu": 0,
+        "disk": 0
+      },
+      "panelInfo": {
+        "url": "https://host.xcasper.site",
+        "location": "1",
+        "egg": "15"
+      }
+    },
+    {
+      "id": "1765914429198",
+      "timestamp": "2025-12-16T19:47:09.198Z",
+      "date": "12/16/2025",
+      "time": "8:47:09 PM",
+      "adminChatId": 5582659539,
+      "type": "unli",
+      "user": {
+        "email": "casperqriz@gmail.com",
+        "username": "Cadper",
+        "password": "Yp$f51#gTlN!",
+        "panelUserId": 24,
+        "telegramId": 5582659539
+      },
+      "server": {
+        "name": "Cadper - UNLI",
+        "serverId": 45,
+        "memory": 0,
+        "cpu": 0,
+        "disk": 0
+      },
+      "panelInfo": {
+        "url": "https://host.xcasper.site",
+        "location": "1",
+        "egg": "15"
+      }
+    },
+    {
+      "id": "1765976799295",
+      "timestamp": "2025-12-17T13:06:39.295Z",
+      "date": "12/17/2025",
+      "time": "2:06:39 PM",
+      "adminChatId": 5582659539,
+      "type": "unli",
+      "user": {
+        "email": "sylivanus.silva@gmail.com",
+        "username": "Silva",
+        "password": "l^#89*@AcZJP",
+        "panelUserId": 29,
+        "telegramId": 5582659539
+      },
+      "server": {
+        "name": "Silva - UNLI",
+        "serverId": 60,
+        "memory": 0,
+        "cpu": 0,
+        "disk": 0
+      },
+      "panelInfo": {
+        "url": "https://host.xcasper.site",
+        "location": "1",
+        "egg": "15"
+      }
+    },
+    {
+      "id": "1765977749107",
+      "timestamp": "2025-12-17T13:22:29.107Z",
+      "date": "12/17/2025",
+      "time": "2:22:29 PM",
+      "adminChatId": 5582659539,
+      "type": "5gb",
+      "user": {
+        "email": "chasemkimbizi@gmail.com",
+        "username": "Chase",
+        "password": "J7qg%gXnmTpg",
+        "panelUserId": 30,
+        "telegramId": 5582659539
+      },
+      "server": {
+        "name": "Chase - 5GB",
+        "serverId": 61,
+        "memory": 5120,
+        "cpu": 50,
+        "disk": 10240
+      },
+      "panelInfo": {
+        "url": "https://host.xcasper.site",
+        "location": "1",
+        "egg": "15"
+      }
+    },
+    {
+      "id": "1765979652577",
+      "timestamp": "2025-12-17T13:54:12.579Z",
+      "date": "12/17/2025",
+      "time": "2:54:12 PM",
+      "adminChatId": 5582659539,
+      "type": "3gb",
+      "user": {
+        "email": "lukasenga@gmail.com",
+        "username": "Lukas",
+        "password": "f1rkqPfkAMFA",
+        "panelUserId": 31,
+        "telegramId": 5582659539
+      },
+      "server": {
+        "name": "Lukas - 3GB",
+        "serverId": 65,
+        "memory": 3072,
+        "cpu": 50,
+        "disk": 6144
+      },
+      "panelInfo": {
+        "url": "https://host.xcasper.site",
+        "location": "1",
+        "egg": "15"
+      }
+    },
+    {
+      "id": "1765985111544",
+      "timestamp": "2025-12-17T15:25:11.545Z",
+      "date": "12/17/2025",
+      "time": "4:25:11 PM",
+      "adminChatId": 5582659539,
+      "type": "2gb",
+      "user": {
+        "email": "typhoon@gmail.com",
+        "username": "Typho",
+        "password": "n4CY0gMLRTd#",
+        "panelUserId": 32,
+        "telegramId": 5582659539
+      },
+      "server": {
+        "name": "Typho - 2GB",
+        "serverId": 66,
+        "memory": 2048,
+        "cpu": 50,
+        "disk": 4096
+      },
+      "panelInfo": {
+        "url": "https://host.xcasper.site",
+        "location": "1",
+        "egg": "15"
+      }
+    },
+    {
+      "id": "1765985922345",
+      "timestamp": "2025-12-17T15:38:42.347Z",
+      "date": "12/17/2025",
+      "time": "4:38:42 PM",
+      "adminChatId": 5582659539,
+      "type": "unli",
+      "user": {
+        "email": "abdimalik20941@gmail.com",
+        "username": "abadi",
+        "password": "%ObH*TnbbCMC",
+        "panelUserId": 33,
+        "telegramId": 5582659539
+      },
+      "server": {
+        "name": "abadi - UNLI",
+        "serverId": 67,
+        "memory": 0,
+        "cpu": 0,
+        "disk": 0
+      },
+      "panelInfo": {
+        "url": "https://host.xcasper.site",
+        "location": "1",
+        "egg": "15"
+      }
+    },
+    {
+      "id": "1766058824300",
+      "timestamp": "2025-12-18T11:53:44.307Z",
+      "date": "12/18/2025",
+      "time": "12:53:44 PM",
+      "adminChatId": 5582659539,
+      "type": "unli",
+      "user": {
+        "email": "jemohke47@gmail.com",
+        "username": "Jemo",
+        "password": "8h4Ju7wh$LxV",
+        "panelUserId": 36,
+        "telegramId": 5582659539
+      },
+      "server": {
+        "name": "Jemo - UNLI",
+        "serverId": 81,
+        "memory": 0,
+        "cpu": 0,
+        "disk": 0
+      },
+      "panelInfo": {
+        "url": "https://host.xcasper.site",
+        "location": "1",
+        "egg": "15"
+      }
+    },
+    {
+      "id": "1766065893006",
+      "timestamp": "2025-12-18T13:51:33.011Z",
+      "date": "12/18/2025",
+      "time": "2:51:33 PM",
+      "adminChatId": 5582659539,
+      "type": "2gb",
+      "user": {
+        "email": "ogzenm77@gmail.com",
+        "username": "Ogzen",
+        "password": "bFQmiWYpPfZI",
+        "panelUserId": 37,
+        "telegramId": 5582659539
+      },
+      "server": {
+        "name": "Ogzen - 2GB",
+        "serverId": 84,
+        "memory": 2048,
+        "cpu": 50,
+        "disk": 4096
+      },
+      "panelInfo": {
+        "url": "https://host.xcasper.site",
+        "location": "1",
+        "egg": "15"
+      }
+    },
+    {
+      "id": "1766070629684",
+      "timestamp": "2025-12-18T15:10:29.691Z",
+      "date": "12/18/2025",
+      "time": "4:10:29 PM",
+      "adminChatId": 5582659539,
+      "type": "unli",
+      "user": {
+        "email": "kid2004june@gmail.com",
+        "username": "Supreme",
+        "password": "$OAz^uIwNkFC",
+        "panelUserId": 38,
+        "telegramId": 5582659539
+      },
+      "server": {
+        "name": "Supreme - UNLI",
+        "serverId": 85,
+        "memory": 0,
+        "cpu": 0,
+        "disk": 0
+      },
+      "panelInfo": {
+        "url": "https://host.xcasper.site",
+        "location": "1",
+        "egg": "15"
+      }
+    },
+    {
+      "id": "1766137366352",
+      "timestamp": "2025-12-19T09:42:46.355Z",
+      "date": "12/19/2025",
+      "time": "10:42:46 AM",
+      "adminChatId": 5582659539,
+      "type": "5gb",
+      "user": {
+        "email": "makenab275@gmail.com",
+        "username": "Makena",
+        "password": "^*z9^t4lB3Mo",
+        "panelUserId": 39,
+        "telegramId": 5582659539
+      },
+      "server": {
+        "name": "Makena - 5GB",
+        "serverId": 90,
+        "memory": 5120,
+        "cpu": 50,
+        "disk": 10240
+      },
+      "panelInfo": {
+        "url": "https://host.xcasper.site",
+        "location": "1",
+        "egg": "15"
+      }
+    },
+    {
+      "id": "1766138067592",
+      "timestamp": "2025-12-19T09:54:27.594Z",
+      "date": "12/19/2025",
+      "time": "10:54:27 AM",
+      "adminChatId": 5582659539,
+      "type": "5gb",
+      "user": {
+        "email": "rastersotieno8@gmail.com",
+        "username": "Rasters",
+        "password": "Y9XxW0laGbeo",
+        "panelUserId": 41,
+        "telegramId": 5582659539
+      },
+      "server": {
+        "name": "Rasters - 5GB",
+        "serverId": 92,
+        "memory": 5120,
+        "cpu": 50,
+        "disk": 10240
+      },
+      "panelInfo": {
+        "url": "https://host.xcasper.site",
+        "location": "1",
+        "egg": "15"
+      }
+    }
+  ]
+}
