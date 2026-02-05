@@ -1,14 +1,79 @@
 {
   "name": "telegram-panel-bot",
-  "version": "1.0.0",
-  "description": "Telegram bot to create users and servers on your panel",
+  "version": "2.0.0",
+  "description": "XCASPER Hosting - Telegram Bot for Pterodactyl Panel Management",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node bot.js",
+    "dev": "nodemon bot.js",
+    "test": "echo \"No tests specified\" && exit 0",
+    "lint": "eslint .",
+    "clean": "rm -rf node_modules package-lock.json",
+    "setup": "npm install && echo \"Setup complete! Run 'npm start' to start the bot.\"",
+    "deploy": "npm run build && npm start",
+    "build": "echo \"Building XCASPER Hosting Bot...\"",
+    "backup": "cp commands/database.json commands/database_backup_$(date +%Y%m%d_%H%M%S).json",
+    "stats": "node -e \"console.log('📊 Bot Statistics:'); const db = require('./commands/database.json'); console.log('Users:', db.users?.length || 0); console.log('Servers:', db.servers?.length || 0); console.log('Creations:', db.creations?.length || 0);\""
+  },
+  "keywords": [
+    "telegram-bot",
+    "pterodactyl",
+    "hosting",
+    "panel",
+    "server-management",
+    "xcasper",
+    "gaming",
+    "vps",
+    "automation"
+  ],
+  "author": "CASPER TECH <@sir_sila>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caspertech/xcasper-telegram-bot"
+  },
+  "bugs": {
+    "url": "https://github.com/caspertech/xcasper-telegram-bot/issues"
+  },
+  "homepage": "https://api.xcasper.site",
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=7.0.0"
   },
   "dependencies": {
-    "node-fetch": "^2.6.1",
-    "node-telegram-bot-api": "^0.61.0"
+    "node-telegram-bot-api": "^0.61.0",
+    "node-fetch": "^2.6.9",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "os": "^0.1.2",
+    "child_process": "^1.0.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "helmet": "^7.0.0",
+    "cors": "^2.8.5",
+    "morgan": "^1.10.0",
+    "winston": "^3.10.0",
+    "moment": "^2.29.4",
+    "chalk": "^4.1.2",
+    "figlet": "^1.6.0",
+    "cli-table3": "^0.6.3",
+    "progress": "^2.0.3",
+    "axios": "^1.5.0",
+    "form-data": "^4.0.0"
   },
-  "type": "commonjs"
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "eslint": "^8.47.0",
+    "prettier": "^3.0.2"
+  },
+  "config": {
+    "panel_url": "https://host.xcasper.site",
+    "bot_version": "2.0.0",
+    "cleanup_days": 30,
+    "max_retries": 3
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.7",
+    "utf-8-validate": "^5.0.10"
+  }
 }
